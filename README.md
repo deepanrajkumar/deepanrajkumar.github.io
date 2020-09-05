@@ -1,2 +1,2 @@
-# deepanrajkumar01.github.io
+# deepanrajkumar.github.io
 Public js test sample

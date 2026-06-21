@@ -1,0 +1,31 @@
+{
+  "files.watcherExclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "search.exclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "files.readonlyInclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "editor.formatOnSave": true,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 24,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "RobotoMono Nerd Font Mono",
+  "editor.minimap.enabled": false,
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.fontFamily": "RobotoMono Nerd Font Mono",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Monokai Pro",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "editor.suggestSelection": "first"
+}

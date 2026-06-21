@@ -1,0 +1,29 @@
+{
+  "projectName": "deepanrajkumar.github.io",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "npm",
+  "includeExamples": true,
+  "tailwind": true,
+  "addOnOptions": {},
+  "envVarValues": {},
+  "git": false,
+  "install": true,
+  "routerOnly": false,
+  "version": 1,
+  "framework": "react",
+  "chosenAddOns": [
+    "eslint",
+    "db",
+    "form",
+    "shadcn",
+    "t3env",
+    "table",
+    "better-auth",
+    "store",
+    "posthog",
+    "tanstack-query",
+    "storybook",
+    "resume"
+  ]
+}
